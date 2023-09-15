@@ -6,7 +6,7 @@ public class Game {
     Card[] deck;
     int index;
     Random rng;
-    int pot;
+    //int pot;
     int condition = 0;
     // 0 is initial, 1 middle, 2 final bet
     Player player;
